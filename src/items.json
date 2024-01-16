@@ -1,0 +1,60 @@
+ [
+    {
+      "name": "Aarav Patel",
+      "image": "https://www.gravatar.com/avatar/abc123",
+      "email": "aarav.patel@example.com"
+    },
+    {
+      "name":"Sanya Kapoor",
+      "image": "https://robohash.org/arjun.kumar.png",
+      "email": "sanya.kapoor@example.com"
+    },
+    {
+      "name": "Vikram Singh",
+      "image": "https://www.gravatar.com/avatar/sef459",
+      "email": "vikram.singh@example.com"
+    },
+    {
+      "name": "Priya Sharma",
+      "image": "https://robohash.org/ishita.singh.png",
+
+      "email": "priya.sharma@example.com"
+    },
+    {
+      "name": "Rahul Verma",
+      "image": "https://avatars.dicebear.com/api/avataaars/ananya.gupta.svg",
+      
+      "email": "rahul.verma@example.com"
+    },
+    {
+      "name": "Neha Yadav",
+      "image": "https://robohash.org/arjun.kumar.png",
+
+      "email": "neha.yadav@example.com"
+    },
+    {
+      "name": "Kabir Reddy",
+      "image": "https://avatars.dicebear.com/api/avataaars/ananya.gupta.svg",
+      
+      "email": "kabir.reddy@example.com"
+    },
+    {
+      "name": "Ananya Gupta",
+      "image": "https://robohash.org/arjun.kumar.png",
+   
+      "email": "ananya.gupta@example.com"
+    },
+    {
+      "name": "Arjun Kumar",
+      "image": "https://avatars.dicebear.com/api/avataaars/ananya.gupta.svg",
+      
+      "email": "arjun.kumar@example.com"
+    },
+    {
+      "name": "Ishita Singh",
+      "image": "https://robohash.org/ishita.singh.png",
+    
+      "email": "ishita.singh@example.com"
+    }
+  ]
+
